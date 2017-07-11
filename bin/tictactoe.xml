@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\DIPANSH KHANDELWAL\Desktop\tictactoe.jar</jar>
+  <outfile>C:\Users\DIPANSH KHANDELWAL\Desktop\tictactoe.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\DIPANSH KHANDELWAL\Desktop\unnamed.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
